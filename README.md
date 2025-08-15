@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [morrm046@gmail.com](mailto:morrm046@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Golang
 
 ### Skills
 
