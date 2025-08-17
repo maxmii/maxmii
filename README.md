@@ -65,7 +65,7 @@ Software Engineer
 
 ### Socials
 <div style="display: flex; align-items: center; gap: 12px;">
- <a href="https://github.com/maxmii" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="60" height="60" style="background: #fff; border-radius: 10px;"/></a>
+ <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="60" height="60" style="background: #fff; border-radius: 10px;"/>
  <a href="https://www.linkedin.com/in/max-morris-65521b128/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60" style="background: #fff; border-radius: 10px;"/></a>
  <a href="mailto:morrm046@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="email" width="60" height="60"/>
