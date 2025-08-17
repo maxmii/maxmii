@@ -6,23 +6,20 @@ Software Engineer
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-*  🌍  I'm based in London
-* ✉️  You can contact me at [morrm046@gmail.com](mailto:morrm046@gmail.com)
-* 🧠  I'm currently learning Go
 
 ### Skills
 
 #### Programming Languages
 
 <div style="display: flex; align-items: center; gap: 12px;">
- <a href="https://www.gnu.org/software/bash/" target="_blank" class="devicon-bash-plain" style="font-size: 60px;"></a>
- <a href="https://www.zsh.org/" target="_blank" class="devicon-zsh-plain" style="font-size: 60px;"></a>
- <a href="https://www.python.org/" target="_blank" class="devicon-python-plain-wordmark colored" style="font-size: 60px;"></a>
- <a href="https://go.dev/" target="_blank" class="devicon-go-plain colored" style="font-size: 60px;"></a>
- <a href="https://www.typescriptlang.org/" target="_blank" class="devicon-typescript-plain colored" style="font-size: 60px;"></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" class="devicon-javascript-plain colored" style="font-size: 60px;"></a>
- <a href="https://www.php.net/" target="_blank" class="devicon-php-plain colored" style="font-size: 60px;"></a>
- <a href="https://www.php.net/" target="_blank" class="devicon-dot-net-plain-wordmark colored" style="font-size: 60px;"></a>
+ <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="60" height="60"/></a>
+ <a href="https://www.zsh.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" alt="zsh" width="60" height="60"/></a>
+ <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/></a>
+ <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="60" height="60"/></a>
+ <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
+ <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
+ <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/></a>
 </div>
 
 #### Frameworks
